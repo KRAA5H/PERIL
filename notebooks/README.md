@@ -153,40 +153,6 @@ jupyter lab
 
 ---
 
-## Implementation Roadmap
-
-### Phase 1: Foundation (Weeks 1-4)
-- Set up database (PostgreSQL + PostGIS)
-- Import static TfL data
-- Create basic Flask API
-- Build simple React + Leaflet map prototype
-
-### Phase 2: Live Data Integration (Weeks 5-8)
-- Develop web scrapers for events
-- Integrate TfL Live API
-- Implement dynamic threat scoring
-- Add real-time map updates
-
-### Phase 3: Enhanced UI/UX (Weeks 9-12)
-- Design detailed station panels
-- Add filters and controls
-- Create dashboard and visualizations
-- Ensure mobile responsiveness
-
-### Phase 4: Testing & Refinement (Weeks 13-16)
-- User testing with security experts
-- Validate threat scores
-- Security and performance audits
-- Documentation
-
-### Phase 5: Deployment (Weeks 17-20)
-- Deploy to production (AWS/GCP)
-- Launch beta version
-- Gather feedback and iterate
-- Plan public release
-
----
-
 ## Ethical Considerations
 
 This project follows strict ethical guidelines:
@@ -202,34 +168,9 @@ This project follows strict ethical guidelines:
 
 ---
 
-## Next Steps
-
-1. **Review findings** with security experts and stakeholders
-2. **Obtain approvals** for data use and ethical compliance
-3. **Set up development environment** following technical recommendations
-4. **Begin Phase 1 implementation** (database + basic map)
-5. **Develop web scraping** for live event data
-6. **Build API and frontend** according to specifications
-7. **Test and validate** before deployment
-
----
-
-## Resources
-
-- **TfL Open Data:** https://tfl.gov.uk/info-for/open-data-users/
-- **Leaflet.js:** https://leafletjs.com/
-- **React Leaflet:** https://react-leaflet.js.org/
-- **PostGIS:** https://postgis.net/
-- **Global Terrorism Database:** https://www.start.umd.edu/gtd/
-- **UK Counter-Terrorism:** https://www.counterterrorism.police.uk/
-
----
-
 ## Contact & Contribution
 
 For questions or contributions to this analysis, please review the main project README.
-
-**Note:** This is an analytical framework. Implementation of the actual threat visualization platform requires additional development work, security reviews, and ethical approvals.
 
 ---
 
