@@ -71,7 +71,11 @@ This directory contains Jupyter notebooks for analyzing TfL (Transport for Londo
 
 ## Data Sources
 
-### TfL Data (Located in `../data/tfl/`)
+### TfL Data
+
+The latest TfL datasets can be downloaded directly from the official source: [https://crowding.data.tfl.gov.uk/#!](https://crowding.data.tfl.gov.uk/#!)
+
+After downloading, place the relevant files in the `../data/tfl/` directory for use with these notebooks.
 - **Annual Entry/Exit Data** (2017-2024): Station-level annual passenger counts
 - **Journey Data** (2021-2023): Daily tube and bus journey totals
 - **Quarterly Hourly Data**: Temporal patterns throughout the day
