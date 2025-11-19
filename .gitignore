@@ -104,3 +104,4 @@ venv.bak/
 
 # Data files (uncomment if needed)
 # data/
+data/tfl/*.csv
